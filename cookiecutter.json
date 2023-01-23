@@ -1,0 +1,13 @@
+{
+    "author_name": "Alex Almero",
+    "author_email": "aalmero@gmail.com",
+
+    "package_name": "cookiecutter_pypackage_minimal-mod",
+    "package_version": "0.0.1",
+    "package_description": "An opinionated, minimal cookiecutter template for Python packages",
+    "package_url": "https://github.com/aalmero/cookiecutter-pypackage-minimal-md",
+    
+    "readme_pypi_badge": true,
+    "readme_travis_badge": true,
+    "readme_travis_url": "https://travis-ci.org/aalmero/cookiecutter-pypackage-minimal"
+}
